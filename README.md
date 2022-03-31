@@ -40,6 +40,6 @@ I'm styding a software engineer degree, I'm concerned on cloud computing and dat
 <footer>
   <div id="finalMessage">
     <img src="https://i.imgur.com/Zzmm8bm.gif" alt="Japanese dog gif" width="300">
-    <span> I hope we can collab together in some exciting project, see you ~ </span>
+    <a> I hope we can collab together in some exciting project, see you ~ </a>
   </div>
 </footer>
