@@ -38,8 +38,12 @@ I'm styding a software engineer degree, I'm concerned on cloud computing and dat
   </div>
 </section>
 
+---
+
+
 <footer>
   <div id="finalMessage">
-    <a> I hope we can collab together in some exciting project, see you ~ </a>
+    <img src="https://i.imgur.com/A689y2O.gif" alt="Macintosh gif" width="100"/>
+    <tt>I hope we can collab together in some exciting project, see you ~ </tt>
   </div>
 </footer>
