@@ -12,11 +12,11 @@
 
 ---
 
-### -🎍 Hi, I'm Stanly:
+### -🎍 <tt>Hi, I'm Stanly:</tt>
 
 I'm styding a software engineer degree, I'm concerned on cloud computing and data science. I enjoy learning technology in all flavors and colors.
 
-### -🌵 Active skills:
+### -🌵 <tt>Active skills:</tt>
 
 <section>
   <div>
@@ -28,7 +28,7 @@ I'm styding a software engineer degree, I'm concerned on cloud computing and dat
   </div>
 </section>
 
-### -🍃 Passives skills:
+### -🍃 <tt>Passives skills:</tt>
 
 <section>
   <div>
@@ -43,7 +43,7 @@ I'm styding a software engineer degree, I'm concerned on cloud computing and dat
 
 <footer>
   <div id="finalMessage">
-    <img src="https://i.imgur.com/A689y2O.gif" alt="Macintosh gif" width="100"/>
     <tt>I hope we can collab together in some exciting project, see you ~ </tt>
+    <!-- <img src="https://i.imgur.com/A689y2O.gif" alt="Macintosh gif" width="100"/> -->
   </div>
 </footer>
