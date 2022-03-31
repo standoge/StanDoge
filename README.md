@@ -37,7 +37,9 @@ I'm styding a software engineer degree, I'm concerned on cloud computing and dat
   </div>
 </section>
 
-<div id="finalMessage">
-  <img src="https://i.imgur.com/Zzmm8bm.gif" alt="Japanese dog gif" width="300">
-  <div> I hope we can collab together in some open source project, see you ~ </div>
-</div>
+<footer>
+  <div id="finalMessage">
+    <img src="https://i.imgur.com/Zzmm8bm.gif" alt="Japanese dog gif" width="300">
+    <div> I hope we can collab together in some open source project, see you ~ </div>
+  </div>
+</footer>
