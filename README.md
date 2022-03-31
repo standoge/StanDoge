@@ -1,6 +1,7 @@
 <header>
   <div id="badge" align="center">
-    <img src="https://i.imgur.com/A689y2O.gif" alt="Macintosh gif" width="100"/>
+    <!-- <img src="https://i.imgur.com/A689y2O.gif" alt="Macintosh gif" width="100"/> -->
+    <img src="https://i.imgur.com/Zzmm8bm.gif" alt="Japanese dog gif" width="300">
   </div>
   <div id="badges" align="center">
     <a  href="https://www.linkedin.com/in/kevin-stanley-melgar-rivera-774662231/">
@@ -39,7 +40,6 @@ I'm styding a software engineer degree, I'm concerned on cloud computing and dat
 
 <footer>
   <div id="finalMessage">
-    <img src="https://i.imgur.com/Zzmm8bm.gif" alt="Japanese dog gif" width="300">
     <a> I hope we can collab together in some exciting project, see you ~ </a>
   </div>
 </footer>
