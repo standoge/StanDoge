@@ -13,7 +13,7 @@
 
 I'm styding a software engineer degree, I'm concerned on cloud computing and data science. I enjoy learning technology in all flavors and colors.
 
-### -🌵 Main knowledged:
+### -🌵 Active skills:
 
 <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" title="Azure" **alt="Azure icon" width="40" height="40"/>
@@ -24,15 +24,13 @@ I'm styding a software engineer degree, I'm concerned on cloud computing and dat
     
 </div>
 
-### -🍃 Others:
+### -🍃 Passives skills:
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" **alt="React Javascript's framework" width="45" height="45x"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg" title="Ubuntu" **alt="Ubuntu, a Linux distribution" width="45" height="45x"/>
   <img src="https://img.icons8.com/offices/344/regex.png" title="Regular Expressions" **alt="RegExp search patter logo" width="45" height="45x"/>
 </div>
-
----
 
 <div id="finalMessage">
   <img src="https://i.imgur.com/Zzmm8bm.gif" alt="Japanese dog gif" width="300">
