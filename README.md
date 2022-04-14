@@ -12,7 +12,7 @@
 
 ---
 
-### -🎍 <tt>Hi, I'm Stanly:</tt>
+### -🎍 <tt>What's up, I'm Stanly:</tt>
 
 I'm styding a software engineer degree, I'm concerned on cloud computing and data science. I enjoy learning technology in all flavors and colors.
 
