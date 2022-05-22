@@ -21,7 +21,8 @@ I'm styding a software engineer degree, I'm concerned on cloud computing and dat
 <section>
   <div>
       <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" **alt="Bash icon" width="45" height="45"/>
-      <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" title="Jupyter-notebook" **alt="Jupyter-notebook icon" width="45" height="45"/>
+      <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" **alt="Pandas icon" title="Python's library for data exploring" width="45" height="45"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" **alt="Pandas icon" title="Python's library for lineal algebra operations" width="45" height="45"/>
       <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python oriented to data science" **alt="Python programming language" width="45" height="45x"/>
       <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain.svg" title="MySQL" **alt="MySQL icon" width="45" height="45x"/>
   </div>
