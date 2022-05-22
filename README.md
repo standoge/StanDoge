@@ -4,7 +4,7 @@
     <img src="https://i.imgur.com/Zzmm8bm.gif" alt="Japanese dog gif" width="300">
   </div>
   <div id="badges" align="center">
-    <a  href="https://www.linkedin.com/in/kevin-stanley-melgar-rivera-774662231/">
+    <a  href="https://www.linkedin.com/in/kevin-stanley-melgar-rivera-774662231/" target='_blank'>
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
   </div>
