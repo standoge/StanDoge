@@ -14,8 +14,7 @@
 
 ### -🎍 <tt>What's up, I'm Stanly:</tt>
 
-I'm styding a software engineer degree, I'm concerned on cloud computing and data science. I enjoy learning technology in all flavors and colors.
-
+I'm data analyst focus toward to be data engineer, I'm concerned on cloud computing and data science. I like vintage tech.
 ### -🌵 <tt>Active skills:</tt>
 
 <section>
