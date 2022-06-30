@@ -12,10 +12,10 @@
 
 ---
 
-### -🎍 <tt>What's up, I'm Stanly:</tt>
+### -🎍 <tt>About</tt>
 
 I'm data analyst focused toward to be data engineer, I'm concerned on cloud computing and data science. I like vintage tech.
-### -🌵 <tt>Active skills:</tt>
+### -🌵 <tt>Active skills</tt>
 
 <section>
   <div>
@@ -27,7 +27,7 @@ I'm data analyst focused toward to be data engineer, I'm concerned on cloud comp
   </div>
 </section>
 
-### -🍃 <tt>Passives skills:</tt>
+### -🍃 <tt>Passives skills</tt>
 
 <section>
   <div>
