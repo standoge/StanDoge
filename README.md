@@ -40,6 +40,8 @@ I'm data analyst focused toward to be data engineer, I'm concerned on cloud comp
 
 ---
 
+<a href="http://www.github.com/StanDoge"><img src="https://activity-graph.herokuapp.com/graph?username=jesusalbertokiz&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+
 <footer>
   <div id="finalMessage">
     <tt>I hope we can collab together in some exciting project, see you ~ </tt>
