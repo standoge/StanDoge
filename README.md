@@ -14,7 +14,7 @@
 
 ### -🎍 <tt>About</tt>
 
-An engineer student focus toward to be data engineer, I'm concerned on cloud computing and data science. I like vintage tech.
+An engineering student focus toward to be data engineer, I'm concerned on cloud computing and data science. I like vintage tech.
 ### -🌵 <tt>Active skills</tt>
 
 <section>
