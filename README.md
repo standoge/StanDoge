@@ -46,7 +46,7 @@ An engineering student focus toward to be data engineer, I'm concerned on cloud 
   <div id="finalMessage">
   
   <tt>
-  I hope we can collab together in some exciting project, see you ~ 
+  May we can colab in some interesting project, see you ~ 
   </tt>
     <!-- <img src="https://i.imgur.com/A689y2O.gif" alt="Macintosh gif" width="100"/> -->
   </div>
