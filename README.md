@@ -1,6 +1,6 @@
 <header>
   <div id="badge" align="center">
-    <img src="https://i.imgur.com/A689y2O.gif" alt="Macintosh gif" width="300"/> 
+    <img src="https://i.imgur.com/VOq3qUI.gif" width="300"/> 
     <!-- <img src="https://i.imgur.com/Zzmm8bm.gif" alt="Japanese dog gif" width="300">-->
   </div>
   <div id="badges" align="center">
