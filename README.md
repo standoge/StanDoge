@@ -40,13 +40,13 @@ An engineering student focus toward to be data engineer, I'm concerned on cloud 
 
 ---
 
-<a href="http://www.github.com/StanDoge"><img src="https://activity-graph.herokuapp.com/graph?username=StanDoge&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<!--<a href="http://www.github.com/StanDoge"><img src="https://activity-graph.herokuapp.com/graph?username=StanDoge&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>-->
 
 <footer>
   <div id="finalMessage">
   
   <tt>
-  May we can colab in some interesting project, see you ~ 
+  May we can colab in some interesting projects, see you ~ 
   </tt>
     <!-- <img src="https://i.imgur.com/A689y2O.gif" alt="Macintosh gif" width="100"/> -->
   </div>
