@@ -14,10 +14,10 @@
 
 ---
 
-### -🎍 <tt>About</tt>
+### <tt>About</tt>
 
-An engineering student focus toward to be data engineer, I'm concerned on cloud computing and data science. I like vintage tech.
-### -🌵 <tt>Active skills</tt>
+Engineering student focused on Data Engineering, I'm interesting in Cloud Computing and Data Science. I like vintage tech ~
+### <tt>Active skills</tt>
 
 <section>
   <div>
@@ -30,7 +30,7 @@ An engineering student focus toward to be data engineer, I'm concerned on cloud 
   </div>
 </section>
 
-### -🍃 <tt>Passives skills</tt>
+### <tt>Passives skills</tt>
 
 <section>
   <div>
@@ -48,9 +48,9 @@ An engineering student focus toward to be data engineer, I'm concerned on cloud 
 <footer>
   <div id="finalMessage">
   
-  <tt>
+  ```
   May we can colab in some interesting projects, see you ~ 
-  </tt>
-    <!-- <img src="https://i.imgur.com/A689y2O.gif" alt="Macintosh gif" width="100"/> -->
+  ```
+ 
   </div>
 </footer>
