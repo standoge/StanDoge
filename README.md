@@ -1,8 +1,10 @@
 <header>
   <div id="badge" align="center">
-    <img src="https://i.imgur.com/VOq3qUI.gif" width="300"/> 
+<!--     <img src="https://i.imgur.com/VOq3qUI.gif" width="300"/>  -->
+    <img src="https://i.imgur.com/V4a4ehh.jpg" />
     <!-- <img src="https://i.imgur.com/Zzmm8bm.gif" alt="Japanese dog gif" width="300">-->
   </div>
+  <br>
   <div id="badges" align="center">
     <a  href="https://www.linkedin.com/in/stanley-melgar-774662231/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
