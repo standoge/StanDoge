@@ -23,9 +23,8 @@ Engineering student focused on Data Engineering, I'm interesting in Cloud Comput
   <div>
      <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" title="Azure" **alt="Azure icon" width="40" height="40"/>
       <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash Scripting" **alt="Bash icon" width="45" height="45"/>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python oriented to data science" **alt="Python programming language" width="45" height="45x"/>
-      <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" **alt="Pandas icon" title="Python's library for data exploring" width="45" height="45"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" **alt="Pandas icon" title="Python's library for lineal algebra operations" width="45" height="45"/>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python oriented to Data Science" **alt="Python programming language" width="45" height="45x"/>
+      <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" **alt="JavaScript" title="Web Development language" width="45" height="45"/>
   
   </div>
 </section>
@@ -36,7 +35,7 @@ Engineering student focused on Data Engineering, I'm interesting in Cloud Comput
   <div>
      <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg" title="Docker" **alt="Docker icon" width="50" height="50"/>
         <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain-wordmark.svg" title="Mongo DB" **alt="Mongo DB, non relational DB" width="45" height="45x"/>
-      <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain.svg" title="MySQL" **alt="MySQL icon" width="45" height="45x"/>
+      <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" **alt="Relational database" width="45" height="45x"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="GNU Linux" **alt="Linux OS" width="45" height="45x"/>
   </div>
 </section>
