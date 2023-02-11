@@ -1,7 +1,7 @@
 
 ### <tt>About</tt>
 
-Engineering student focused on Data Engineering, I'm interesting in Cloud Computing and Data Science. I like vintage tech ~
+Engineering student focused on Data Engineering, I'm interesting in Cloud Computing and vintage tech ~
 ### <tt>Active skills</tt>
 
 <section>
