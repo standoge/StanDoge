@@ -1,7 +1,7 @@
 
 ### <tt>About</tt>
 
-Data is my religion :shipit:
+Data nerd who loves vintage tech :shipit:
 ### <tt>Active skills</tt>
 
 <section>
