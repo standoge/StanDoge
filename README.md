@@ -1,7 +1,7 @@
 
 ### <tt>About</tt>
 
-Engineering student focused on Data Engineering, I'm interesting in Cloud Computing and vintage tech ~
+Data is my religion :shipit:
 ### <tt>Active skills</tt>
 
 <section>
