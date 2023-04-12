@@ -1,7 +1,3 @@
-
-### <tt>About</tt>
-
-Data nerd who loves vintage tech :shipit:
 ### <tt>Active skills</tt>
 
 <section>
