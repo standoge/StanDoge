@@ -10,7 +10,7 @@
   </div>
 </section>
 
-### <tt>Passives skills</tt>
+### <tt>Passive skills</tt>
 
 <section>
   <div>
