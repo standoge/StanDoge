@@ -18,14 +18,12 @@
         <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain-wordmark.svg" title="Mongo DB" **alt="Mongo DB, non relational DB" width="45" height="45x"/>
       <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" **alt="Relational database" width="45" height="45x"/>
             <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-original.svg" title="SQL SERVER" **alt="SQL-SERVER" width="45" height="45x"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="GNU Linux" **alt="Linux OS" width="45" height="45x"/>
+<!--     <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="GNU Linux" **alt="Linux OS" width="45" height="45x"/> -->
 
   </div>
 </section>
 
 ---
-
-<!--<a href="http://www.github.com/StanDoge"><img src="https://activity-graph.herokuapp.com/graph?username=StanDoge&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>-->
 
 <div>
   <div id="badge" align="center">
